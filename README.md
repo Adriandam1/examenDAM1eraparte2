@@ -1,6 +1,6 @@
 # examenDAM
 Para utilizarlo en el examen
-
+ahgsxjhg
 en tu enlace https://github.com/damiancastelao/examenDAM vamos a code-> clone -> copiamos url
 
 abrimos consola, seleccionamos la carpeta donde queramos clonarlo
